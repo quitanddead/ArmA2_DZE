@@ -1,4 +1,8 @@
 ArmA2_DZE
 =========
 
-Everything connected with ArmA2 and DayZ Epoch
+Here you can find my own public scripts for DayZ Epoch.
+
+### List
+* Change weapons from Backpack (16 July 2014)
+* New GUI (18 July 2014)
